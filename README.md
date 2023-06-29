@@ -29,6 +29,8 @@
 - Original Windows
 - 360 Total Security
 - Glassware Network Security
+- Brave Browser
+- optional VPN
 - Disable Port Firewall
 - Update Windows & Driver
 - Junk File Cleaner
@@ -54,3 +56,6 @@
 - 2 Factor Authenticator
 - Forms with Captcha
 - Updates CMS
+
+### Security for Wifi
+- Regular change Password
