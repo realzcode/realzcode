@@ -30,6 +30,7 @@
 - 360 Total Security
 - Glassware Network Security
 - Brave Browser
+- Google Drive
 - optional VPN
 - Disable Port Firewall
 - Update Windows & Driver
