@@ -14,6 +14,7 @@
 ### Security for VPS Linux
 - Update && Upgrade Application
 - Strong Password ($You~N3V3R_hackeD!)
+- optional Squid Proxy
 - have Control Panel
 - Regular Backups
 - Firewalls and Security Groups
@@ -54,5 +55,13 @@
 - Forms with Captcha
 - Updates CMS
 
+### Security for Smartphone
+- Updates OS
+- optional Antivirus
+- Learn Debloat/Bloatware
+- Learn Phising/Spam/Scam
+- Don't install Untrusted Application (apk/ipa)
+
 ### Security for Wifi
 - Regular change Password
+- Learn Deauthentication
