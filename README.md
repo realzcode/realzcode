@@ -3,8 +3,9 @@
 - Reconnaissance -> Exploit / DDOS
 - Gain Access Admin -> Backdoor : Dump Database : ̶D̶e̶f̶a̶c̶e̶d̶
 - Privilege Escalation -> Rooted -> 💬
-- Incident Record Management (IRM)
-- Security Publish
+- Cyber Incident Records Management (CIRM)
+- Cyber ​​Response Incident Management (CRIM)
+- Cyber Security Publish (CSP)
 
 ### Security for VPS Linux
 - Update && Upgrade Application
