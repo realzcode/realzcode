@@ -1,3 +1,7 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realzcode&layout=compact&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realzcode&show_icons=true&theme=dark&hide=commits,contribs)
+
+---
+
 ### Penetration Testing
 - Zero Day / Vulnerability / Unpatched CVE
 - Reconnaissance -> Exploit / DDOS
