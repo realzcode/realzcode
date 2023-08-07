@@ -63,5 +63,6 @@
 - Don't install Untrusted Application (apk/ipa)
 
 ### Security for Wifi
-- Regular change Password
+- Change default Password user Router
+- Regular change Password SSID
 - Learn Deauthentication
