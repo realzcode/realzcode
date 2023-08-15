@@ -5,7 +5,7 @@
 ### Penetration Testing
 - Zero Day / Vulnerability / Unpatched CVE
 - Reconnaissance -> Exploit / DDOS
-- Gain Access Admin -> Backdoor : Dump Database : ̶D̶e̶f̶a̶c̶e̶d̶
+- Gain Access Admin -> Backdoor : Dump Database / Ransom : Defaced : Botnets
 - Privilege Escalation -> Rooted -> 💬
 - Cyber Incident Records Management (CIRM)
 - Cyber ​​Response Incident Management (CRIM)
@@ -59,7 +59,7 @@
 - Updates OS
 - optional Antivirus
 - Learn Debloat/Bloatware
-- Learn Phising/Spam/Scam
+- Learn Phishing/Spam/Scam
 - Don't install Untrusted Application (apk/ipa)
 
 ### Security for Wifi
