@@ -1,6 +1,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realzcode&layout=compact&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realzcode&show_icons=true&theme=dark&hide=commits,contribs)
 
-[![Static Badge](https://img.shields.io/badge/Start-Here-white?link=https%3A%2F%2Fstart.me%2Fp%2F9E7Re8%2Frealz-code)](https://start.me/p/9E7Re8/realz-code) [![Static Badge](https://img.shields.io/badge/INDONESIA-white?label=DIRGAHAYU%2078&labelColor=%23f44336)](https://www.youtube.com/watch?v=-C7j2gcZVhQ)
+[![Static Badge](https://img.shields.io/badge/Start-Here-white?link=https%3A%2F%2Fstart.me%2Fp%2F9E7Re8%2Frealz-code)](https://start.me/p/9E7Re8/realz-code) [![Static Badge](https://img.shields.io/badge/INDONESIA-white?label=DIRGAHAYU%2078&labelColor=%23f44336)](https://realzcode.github.io)
 
 ### Penetration Testing
 - Zero Day / Vulnerability / Unpatched CVE
