@@ -7,6 +7,7 @@
 - Reconnaissance -> Exploit / DDOS
 - Gain Access Admin -> Backdoor : Dump Database / Ransom : Defaced : Botnets
 - Privilege Escalation -> Rooted -> 💬
+- Cyber Intrusion Detection System (CIDS)
 - Cyber Incident Records Management (CIRM)
 - Cyber ​​Response Incident Management (CRIM)
 - Cyber Security Publish (CSP)
