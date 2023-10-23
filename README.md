@@ -1,12 +1,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=realzcode&layout=compact&theme=dark)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=realzcode&show_icons=true&theme=dark&hide=commits,contribs)
 
-[![Static Badge](https://img.shields.io/badge/Start-Here-white?link=https%3A%2F%2Fstart.me%2Fp%2F9E7Re8%2Frealz-code)](https://start.me/p/9E7Re8/realz-code) [![Static Badge](https://img.shields.io/badge/INDONESIA-white?label=DIRGAHAYU%2078&labelColor=%23f44336)](https://realzcode.github.io)
+[![Static Badge](https://img.shields.io/badge/Start-Here-white?link=https%3A%2F%2Fstart.me%2Fp%2F9E7Re8%2Frealz-code)](https://start.me/p/9E7Re8/realz-code)
+[![Static Badge](https://img.shields.io/badge/NESIA-white?label=INDO&labelColor=%23f44336)](https://realzcode.github.io)
 
 ### Penetration Testing
 - Zero Day / Vulnerability / Unpatched CVE
-- Reconnaissance -> Exploit / DDOS
-- Gain Access Admin -> Backdoor : Dump Database / Ransom : Defaced : Botnets
-- Privilege Escalation -> Rooted -> 💬
+- Reconnaissance -> Exploit / DDOS / OSINT
+- Gain Access Admin -> Backdoor : Dump Database / Ransom : Defaced : C2 Botnets
+- Privilege Escalation -> Rooted -> ✨
 - Cyber Security Publish (CSP)
 - Cyber Intrusion Detection System (CIDS)
 - Cyber Incident Records Management (CIRM)
@@ -14,25 +15,25 @@
 
 ### Security for VPS Linux
 - Update && Upgrade Application
-- Strong Password ($You~N3V3R_hackeD!)
+- Strong Password ($You~H4V3-Been_pwnD!)
 - optional Squid Proxy
 - have Control Panel
 - Regular Backups
 - Firewalls and Security Groups
-- Upgrade Router/Switch/Hub/Cable/Nut ⚡
+- Upgrade Router/Switch/Hub/Cable/Nut
 
 ### Security for Windows
 - Original Windows
 - Antivirus -> 360 Total Security
 - Process Monitor -> Sysinternals Process Monitor
 - Network Security -> Glassware Network Security
-- Browser -> Brave Browser
-- Cloud Backups -> Google Drive
-- optional VPN -> CloudFlare WARP
+- Browser -> Brave Browser, LibreWolf
+- Cloud Backups -> Google Drive, OneDrive
+- optional VPN -> CloudFlare WARP, Psiphon
 - Disable Port Firewall
 - Update Windows & Driver
 - Junk File Cleaner -> CCleaner
-- Disk Defragment
+- Disk Defragment, Disk Cleanup, ChkDSK
 - Upgrade Devices !
 
 ### Security for Website
