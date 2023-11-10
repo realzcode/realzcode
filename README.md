@@ -25,13 +25,13 @@
 ### Security for Windows
 - Original Windows
 - Antivirus -> 360 Total Security
-- Process Monitor -> Sysinternals Process Monitor
+- Process Monitor -> Process Hacker, Sysinternals Process Monitor
 - Network Security -> Glassware Network Security
 - Browser -> Brave Browser, LibreWolf
 - Cloud Backups -> Google Drive, OneDrive
 - optional VPN -> CloudFlare WARP, Psiphon
-- Disable Port Firewall
-- Update Windows & Driver
+- Disable Port Firewall -> TCP 23, 445 | TCP/UDP 22, 137, 138, 139
+- Update Windows & Driver -> Driver Hub, Driver Booster
 - Junk File Cleaner -> CCleaner
 - Disk Defragment, Disk Cleanup, ChkDSK
 - Upgrade Devices !
